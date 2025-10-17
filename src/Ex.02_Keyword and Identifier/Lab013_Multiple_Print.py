@@ -1,0 +1,1 @@
+print("raji","nalan","Namura",sep='_.:._')
