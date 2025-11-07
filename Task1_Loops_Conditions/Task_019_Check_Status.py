@@ -17,7 +17,7 @@
 # print(check_status(500))   # FAIL
 #
 # # print(check_status(302))   # UNKNOWN
-from difflib import Match
+
 
 # status_code=int(input("Enter the status code: "))
 def check_status(status_code):
